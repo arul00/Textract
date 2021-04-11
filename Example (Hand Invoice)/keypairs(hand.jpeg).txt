@@ -1,0 +1,8 @@
+Order No:  : IVC 682  
+signature  : ap  
+Billing Address :  : 55 Geylang Circle, Singapore 650882 785993.  
+Despatch Date  : 15 Jan 2021  
+For:  : John Smith  
+Date:  : 22 Dec 2020  
+Total Price:  : $ 135.00 5% permth for overdue invoice  
+Delivery  : Mode FedEx.  

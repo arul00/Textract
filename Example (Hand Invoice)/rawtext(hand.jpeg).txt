@@ -1,0 +1,35 @@
+Date: 22 Dec 2020
+a
+Avalone Inc.
+Order No: IVC 682
+For: John Smith
+Invoice for Goods.
+Billing Address : 55 Geylang Circle, Singapore 650882 785993.
+GOODS PURCHASED
+No
+Item
+Qty
+Price
+/
+Good Code: IXCI Pair of Sacks
+3
+$5.00
+2
+Good Code: IXC3 Shoes-Sandals
+2
+$10.00
+3
+Good Code: IXC7 Shoe Polish
+5
+$20.00
+Total Price: $ 135.00
+Interest charged 5% permth for overdue invoice
+15 Jan 2021
+ap
+Despatch Date
+signature
+Delivery Mode
+FedEx.
+Our Address
+21 Gul Circle,
+Singapore 712851

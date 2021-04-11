@@ -1,0 +1,10 @@
+Payment Method:  : PayPal  
+Order ID:  : 148463  
+Shipping:  : FEDEX  
+Invoice No:  : CI1489778  
+Date:  : 19 September 2020  
+Sub-Total :  : S$72.42  
+Fedex IP, 1-3 Working Days, Free Shipping (0.11kg) :  : S$0.00  
+Total :  : S$72.42  
+H.S.  : Code  
+Attn :  : Ethan Chua  
