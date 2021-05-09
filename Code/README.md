@@ -13,8 +13,7 @@ python main.py hand.jpeg
 Then, follow the instructions given in the Terminal. 
 
 ## Plans for future development
-<li>
-  <ul>Integrate this into a webapp using Flask or whatever </ul>
-  <ul>Docker </ul>
- </li>
+*Integrate this into a webapp using Flask or whatever
+*Docker 
+
 
